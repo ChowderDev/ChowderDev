@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, Welcome to my GitHub's profile!, I'm Gabriel!</h1>
-<h3 align="center">I am passionate about software development with an interest in software testing and exploring web development in Python as a beginner. I am currently focusing on improving my Python skills and mastering tools like Playwright for automated testing. Here, you will find projects where I apply what I’ve learned, from text-based games to automation and more. I'm always looking to improve and learn new things!</h3>
+<h1 align="center">Hi 👋, Welcome to my GitHub's profile!</h1>
+<h3 align="center">My name is Gabriel, I'm passionate about software development with an interest in software testing and exploring web development in Python as a beginner. I'm currently focusing on improving my Python skills and mastering tools like Playwright for automated testing. Here, you will find projects where I apply what I’ve learned, from text-based games to automation and more. I'm always looking to improve and learn new things!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chowderdev&label=Profile%20views&color=0e75b6&style=flat" alt="chowderdev" /> </p>
 
