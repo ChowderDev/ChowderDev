@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chowderdev&label=Profile%20views&color=0e75b6&style=flat" alt="chowderdev" /> </p>
 
-- 🌱 I’m currently learning **about cibersecurity and a reflex framework.**
+- 🌱 I’m currently learning **about cibersecurity and reflex framework.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChowderDev?tab=repositories](https://github.com/ChowderDev?tab=repositories)
 
